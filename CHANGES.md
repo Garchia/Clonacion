@@ -6,6 +6,24 @@ D3 4.0 is modular. Instead of one library, D3 is now [many small libraries](#tab
 <script src="https://d3js.org/d3.v4.js"></script>
 ```
 
+Aquí agrego una segunda modificación al texto del archivo.
+
+Espero que no traiga repercusiones graves!
+
+Agregando líneas:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Cumpliendo (de forma nada eficiente) el requerimiento para la práctica.
+
 As before, you can load optional plugins on top of the default bundle, such as [ColorBrewer scales](https://github.com/d3/d3-scale-chromatic):
 
 ```html
